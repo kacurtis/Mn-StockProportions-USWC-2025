@@ -1,0 +1,8 @@
+﻿FishingZone,Description,minlat,maxlat
+Zone 1,From the California/Oregon border (42° N. latitude) to Cape Mendocino (40° 10' N. latitude),40.167,42
+Zone 2,From Cape Mendocino to the Sonoma/Mendocino county line (38° 46.125' N. latitude),38.769,40.167
+Zone 3,From Sonoma/Mendocino county line to Pigeon Point (37° 11' N. latitude),37.183,38.769
+Zone 4,From Pigeon Point to Lopez Point (36° N. latitude),36,37.183
+Zone 5,From Lopez Point to Point Conception (34° 27 N. latitude),34.45,36
+Zone 6,From Point Conception to the U.S./Mexico Border,30.5,34.45
+Zone 7,“Pacific Leatherback Sea Turtle Foraging Area” from Point Arena (38° 57.5' N. latitude) to Point Pinos (36° 38.314' N. latitude),36.639,38.958
