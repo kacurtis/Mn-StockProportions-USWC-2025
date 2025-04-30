@@ -5,10 +5,13 @@ Curtis, K.A., Calambokidis, J., Audley, K., Becker, E.A., Bejder, L., Black, N.,
 
 and with the R package `ApportionMnStocks`:
 
-Curtis, K.A. 2025. ApportionMnStocks. R package version 1.0.0. https://github.com/kacurtis/ApportionMnStocks
+Curtis, K.A. 2025. ApportionMnStocks. Version 1.0.0. NOAA Fisheries, Southwest Fisheries Science Center, 8901 La Jolla Shores Dr., La Jolla, CA 92037, DOI: 10.5281/zenodo.XXXXXXX
+
+You can also cite this repository:
+
+Curtis, K.A. 2025. Mn-StockProportions-USWC-2025. Version 1.0.0. NOAA Fisheries, Southwest Fisheries Science Center, 8901 La Jolla Shores Dr., La Jolla, CA 92037, DOI: 10.5281/zenodo.XXXXXXX
 
 R scripts summarizing and applying species distribution model products for humpback whales off the U.S. West Coast with proportions estimated with the scripts in this repository are in the `ApportionMnStocks` package.
-
 
 Data for this analysis are maintained by Cascadia Research Collective (https://cascadiaresearch.org/).
 
